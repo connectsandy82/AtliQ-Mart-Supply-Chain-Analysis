@@ -1,13 +1,11 @@
-# AtliQ-Mart-Supply-Chain-Analysis
+# 📊 AtliQ-Mart-Supply-Chain-Analysis PowerBI Dashboard: Unveiling Business Performance! 📈
 
-# 📊 AtliQ Sales Insights PowerBI Dashboard: Unveiling Business Performance! 📈
+I'm thrilled to share my latest project, where I took a data-driven approach to analyze AtliQ Hardware's sales performance. This project combined Excel, Power Query, and Power BI to create a comprehensive and interactive sales dashboard. Here’s a detailed overview:
 
-I'm thrilled to share my latest project, where I took a data-driven approach to analyze AtliQ Hardware's sales performance. This project combined SQL, Power Query, and Power BI to create a comprehensive and interactive sales dashboard. Here’s a detailed overview:
-
-## Project Title: “AtliQ Sales Insights Using SQL, Power Query, and Power BI”
+## Project Title: “AtliQ-Mart-Supply-Chain-Analysis Using Excel, Power Query, and Power BI”
 
 ## Links to Explore:
-**Interactive Dashboard:** [View Dashboard](https://rb.gy/loxqar)
+**Interactive Dashboard:** [View Dashboard]()
 
 **Presentation Video:** Coming Soon!
 
@@ -47,17 +45,17 @@ I'm thrilled to share my latest project, where I took a data-driven approach to 
 
 ## Dashboards Overview:
 
-## Revenue Analysis
-![Revenue Analyasis](https://github.com/connectsandy82/AtliQ-Sales-Insights/blob/main/Revenue%20Analysis.png)
+## Orders Insights
+![Orders Insights](https://github.com/connectsandy82/AtliQ-Mart-Supply-Chain-Analysis/blob/main/Orders%20Insights.png)
 
-## Profit Analysis
-![Profit Analysis](https://github.com/connectsandy82/AtliQ-Sales-Insights/blob/main/Profit%20Analysis.png)
+## Order Lines Insights
+![Order Lines Insights](https://github.com/connectsandy82/AtliQ-Mart-Supply-Chain-Analysis/blob/main/Order%20Lines%20Insights.png)
 
-## Performance Analysis
-![Performance Analysis](https://github.com/connectsandy82/AtliQ-Sales-Insights/blob/main/Performance%20Analysis.png)
+## Delay Analysis
+![Delay Analysis](https://github.com/connectsandy82/AtliQ-Mart-Supply-Chain-Analysis/blob/main/Delay%20Analysis.png)
 
-## Insights Summary Conclusion
-![Insights Summary COnclusion](https://github.com/connectsandy82/AtliQ-Sales-Insights/blob/main/Insights%20Summary%20Conclusion.png)
+## Key Performance Trends
+![Key Performance Trends](https://github.com/connectsandy82/AtliQ-Mart-Supply-Chain-Analysis/blob/main/Key%20Performance%20Trends.png)
 
 ## Outcome
 - Delivered a robust Power BI dashboard that provides clear, actionable insights into AtliQ Hardware’s sales performance. This dashboard empowers the sales director to make data-driven decisions and address the challenges effectively.
@@ -66,12 +64,12 @@ I'm thrilled to share my latest project, where I took a data-driven approach to 
 - Your insights and thoughts are highly valued. Let’s explore how data analytics can revolutionize business strategies.
 
 ## Technologies Used
-- SQL
+- Excel
 - Power Query
 - Power BI
 
 ## Conclusion
-This project demonstrates an end-to-end data analytics approach to understanding and improving sales performance using SQL, Power Query, and Power BI. It highlights the importance of data preprocessing, analysis, and visualization in making informed business decisions.
+This project demonstrates an end-to-end data analytics approach to understanding and improving sales performance using Excel, Power Query, and Power BI. It highlights the importance of data preprocessing, analysis, and visualization in making informed business decisions.
 
 ## Contact
 For any questions or suggestions, feel free to reach out at [connectsandy82@gmail.com]

@@ -5,7 +5,7 @@ Welcome to my latest project, where I leverage data-driven techniques to analyze
 ## Project Title: “AtliQ-Mart-Supply-Chain-Analysis Using Excel, Power Query, and Power BI”
 
 ## Links to Explore:
-**Interactive Dashboard:** [View Dashboard]()
+**Interactive Dashboard:** [View Dashboard](https://rb.gy/w4sv75)
 
 **Presentation Video:** Coming Soon!
 

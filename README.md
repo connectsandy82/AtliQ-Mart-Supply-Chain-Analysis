@@ -57,6 +57,15 @@ Welcome to my latest project, where I leverage data-driven techniques to analyze
 ## Key Performance Trends
 ![Key Performance Trends](https://github.com/connectsandy82/AtliQ-Mart-Supply-Chain-Analysis/blob/main/Key%20Performance%20Trends.png)
 
+## Insights Summary 1
+![Insights Summary 1](https://github.com/connectsandy82/AtliQ-Mart-Supply-Chain-Analysis/blob/main/AtliQ%20Mart%20Insights%20Summary%201.png)
+
+## Insights Summary 2
+![Insights Summary 2](https://github.com/connectsandy82/AtliQ-Mart-Supply-Chain-Analysis/blob/main/AtliQ%20Mart%20Insights%20Summary%202.png)
+
+## Insights Summary Final Conclusion
+![Insights Summary Final Conclusion](https://github.com/connectsandy82/AtliQ-Mart-Supply-Chain-Analysis/blob/main/AtliQ%20Mart%20Insights%20Final%20Conclusion.png)
+
 ## Outcome
 
 This robust Power BI dashboard delivers clear, actionable insights into AtliQ Mart’s supply chain performance. It empowers the sales director to make data-driven decisions and address challenges effectively.
